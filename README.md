@@ -22,7 +22,7 @@ generate_data.py  →  clean_data.py  →  DuckDB  →  sql/*.sql  →  outputs/
 ## Run it
 
 ```bash
-python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
+python3 -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python src/generate_data.py    # creates data/raw/listings_raw.csv
 python src/clean_data.py       # cleans, logs data quality, loads DuckDB
