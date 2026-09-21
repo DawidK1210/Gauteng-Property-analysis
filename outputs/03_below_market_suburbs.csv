@@ -1,0 +1,37 @@
+property_type,suburb,sales,suburb_ppm2,market_ppm2,pct_vs_market,cheapest_rank
+Apartment,Rooihuiskraal,110,13851.0,20578.0,-32.7,1
+Apartment,Faerie Glen,123,16200.0,20578.0,-21.3,2
+Apartment,Centurion,191,16765.0,20578.0,-18.5,3
+Apartment,Irene,128,17490.0,20578.0,-15.0,4
+Apartment,Groenkloof,129,19138.0,20578.0,-7.0,5
+Apartment,Lynnwood,161,19241.0,20578.0,-6.5,6
+Apartment,Menlo Park,150,20271.0,20578.0,-1.5,7
+Apartment,Brooklyn,165,21137.0,20578.0,2.7,8
+Apartment,Waterkloof,167,23926.0,20578.0,16.3,9
+Apartment,Waterkloof Ridge,125,26278.0,20578.0,27.7,10
+Apartment,Bryanston,162,26533.0,20578.0,28.9,11
+Apartment,Sandton,183,29970.0,20578.0,45.6,12
+House,Rooihuiskraal,170,14711.0,21770.0,-32.4,1
+House,Faerie Glen,246,17098.0,21770.0,-21.5,2
+House,Centurion,351,18581.0,21770.0,-14.6,3
+House,Irene,199,19192.0,21770.0,-11.8,4
+House,Groenkloof,219,20622.0,21770.0,-5.3,5
+House,Lynnwood,277,21257.0,21770.0,-2.4,6
+House,Menlo Park,198,21795.0,21770.0,0.1,7
+House,Brooklyn,274,22089.0,21770.0,1.5,8
+House,Waterkloof,240,26312.0,21770.0,20.9,9
+House,Bryanston,268,28118.0,21770.0,29.2,10
+House,Waterkloof Ridge,167,28227.0,21770.0,29.7,11
+House,Sandton,284,32651.0,21770.0,50.0,12
+Townhouse,Rooihuiskraal,39,14549.0,21116.0,-31.1,1
+Townhouse,Faerie Glen,48,17028.0,21116.0,-19.4,2
+Townhouse,Irene,45,17797.0,21116.0,-15.7,3
+Townhouse,Centurion,75,17822.0,21116.0,-15.6,4
+Townhouse,Lynnwood,55,20452.0,21116.0,-3.1,5
+Townhouse,Groenkloof,53,20468.0,21116.0,-3.1,6
+Townhouse,Menlo Park,52,21074.0,21116.0,-0.2,7
+Townhouse,Brooklyn,53,22803.0,21116.0,8.0,8
+Townhouse,Waterkloof,67,24894.0,21116.0,17.9,9
+Townhouse,Bryanston,53,26895.0,21116.0,27.4,10
+Townhouse,Waterkloof Ridge,39,26969.0,21116.0,27.7,11
+Townhouse,Sandton,55,29691.0,21116.0,40.6,12
